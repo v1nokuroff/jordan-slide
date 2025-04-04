@@ -1,1 +1,1 @@
-# https://v1nokuroff.github.io/Jordan_Slide/
+# https://v1nokuroff.github.io/jordan-slide
